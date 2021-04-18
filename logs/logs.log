@@ -1,0 +1,5 @@
+
+Webserver now listening on 8080ttp://192.168.2.229:2547/myhome/connect"
+Looks like we successfully connected to "http://192.168.2.229:2547/myhome/connect"! Attempting to send join request...
+Sending websocket request to "http://192.168.2.229:2547/myhome/connect"
+Looks like we successfully connected to "http://192.168.2.229:2547/myhome/connect"! Attempting to send join request...1
